@@ -7,11 +7,8 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+GeeksforGeeks Delete Firebase Data - https://www.geeksforgeeks.org/android/android-jetpack-compose-delete-data-in-firebase-firestore/
+Used to understand how Firebase delete function works.
 
 ## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
